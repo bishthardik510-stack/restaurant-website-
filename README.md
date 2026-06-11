@@ -3,7 +3,7 @@
 A fully responsive restaurant website built with pure HTML, CSS, and JavaScript.
 
 ## Live Demo
-[View Live Site](https://your-netlify-link.netlify.app)
+[View Live Site](https://saffron-oak.netlify.app)
 
 ## Features
 - Responsive navigation bar
