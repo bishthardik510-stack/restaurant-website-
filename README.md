@@ -22,14 +22,12 @@ A fully responsive restaurant website built with pure HTML, CSS, and JavaScript.
 
 ## Project Structure
 ```
-saffron-oak/
+Saffron-oak/
 │
-├── index.html        # Main HTML structure
-├── css/
-│   └── style.css     # All styles
-├── js/
-│   └── main.js       # Interactions & animations
-└── README.md
+|\ index.html        # Main HTML structure
+|\ style.css     # All styles
+│\ main.js       # Interactions & animations
+|\ README.md
 ```
 
 ## JavaScript Features
